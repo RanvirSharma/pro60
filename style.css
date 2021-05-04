@@ -1,0 +1,5 @@
+img {
+    transition: transform .2s;
+    width: 400px;
+    height: 600px;
+}
